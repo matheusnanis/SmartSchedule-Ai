@@ -1,0 +1,9 @@
+{
+  "name": "SmartSchedule AI",
+  "description": "A mobile-first SaaS for Brazilian cleaning professionals in the US, featuring AI-driven scheduling, translation, and business management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
